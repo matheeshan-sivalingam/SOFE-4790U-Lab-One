@@ -1,5 +1,5 @@
 # SOFE-4790U-Lab-One
-##Lab One: Introduction to Google Kubernetes Engine (GKE)<br>
+### Lab One: Introduction to Google Kubernetes Engine (GKE)<br>
 ### Group number: 9
 ### Group members: 
 Matheeshan Sivalingam (100703887)<br>
