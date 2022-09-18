@@ -1,7 +1,7 @@
 # SOFE-4790U-Lab-One
-### Lab One: Introduction to Google Kubernetes Engine (GKE)<br>
-### Group number: 9
-### Group members: 
+## Lab One: Introduction to Google Kubernetes Engine (GKE)<br>
+#### Group number: 9
+#### Group members: 
 Matheeshan Sivalingam (100703887)<br>
 
 
@@ -11,10 +11,15 @@ Matheeshan Sivalingam (100703887)<br>
 2. Learns various Kubernetes tools.
 3. Learn how to use Google Cloud Platform (GCP).
 4. Compose YAML files to deploy cloud applications. 
+## Final Submission
 
+## Individual Submissions:
 
-### Final 
 ### Aaditya
+[Lab 1 Report-Aaditya](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-One/blob/main/Aaditya/Lab%201%20Report-Aaditya.pdf)<br>
+[Mysql Demonstration](https://www.youtube.com/watch?v=-KuWT8PKYDc)<br>
+[MongoDB demonstration](https://www.youtube.com/watch?v=W8QEgeNPCX0)
+
 ### Aayush
 ### Hemshikha 
 ### Matheeshan 
