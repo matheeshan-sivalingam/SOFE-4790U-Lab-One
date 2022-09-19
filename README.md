@@ -21,6 +21,10 @@ Matheeshan Sivalingam (100703887)<br>
 [MongoDB demonstration](https://www.youtube.com/watch?v=W8QEgeNPCX0)
 
 ### Aayush
+[Lab 1 - Aayush Parikh](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-One/blob/main/Aayush/Lab%201%20-%20Report.docx)<br>
+[MySQL Demo](https://youtu.be/nw2bvGAhJHc)<br>
+[MongoDB Demo](https://www.youtube.com/watch?v=abcQvqKqr-U)<br>
+
 ### Hemshikha 
 [Lab 1 - Hemshikha Sultoo - 100670616](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-One/blob/main/Hemshikha%20-%20LAB1/Lab%201%20-%20Hemshikha%20Sultoo%20-%20100670616.pdf)<br>
 
