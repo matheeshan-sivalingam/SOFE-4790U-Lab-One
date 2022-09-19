@@ -22,6 +22,8 @@ Matheeshan Sivalingam (100703887)<br>
 
 ### Aayush
 ### Hemshikha 
+[Lab 1 - Hemshikha Sultoo - 100670616](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-One/blob/main/Hemshikha%20-%20LAB1/Lab%201%20-%20Hemshikha%20Sultoo%20-%20100670616.pdf)<br>
+
 ### Matheeshan 
 [Lab 1: Introduction to Google Kubernetes Engine (GKE) Report](https://github.com/matheeshan-sivalingam/SOFE-4790U-Lab-One/blob/main/Matheeshan/100703887_Lab%201_%20Introduction%20to%20Google%20Kubernetes%20Engine.pdf)<br>
 [SOFE4790U Lab 1 - Introduction to Google Kubernetes Engine Part One](https://youtu.be/mN5rZ46wJqc)<br>
