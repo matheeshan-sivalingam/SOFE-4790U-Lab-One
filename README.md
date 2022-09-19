@@ -3,8 +3,9 @@
 #### Group number: 9
 #### Group members: 
 Matheeshan Sivalingam (100703887)<br>
-
-
+Hemshikha Sultoo (100670616)
+Aaditya Rajput (100622434)
+Aayush Parikh(100724827) 
 
 ## Objective:
 1. Get familiar with Docker images and containers.
